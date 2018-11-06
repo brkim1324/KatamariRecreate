@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d61c98-cc23-44ca-b246-c40a10ff0c87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MaddyScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MaddyScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
     <session id="390390005">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
