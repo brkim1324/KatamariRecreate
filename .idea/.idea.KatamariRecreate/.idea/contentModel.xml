@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\brkim\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\brkim\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_KatamariRecreate.-1432241563.00" t="ExcludeRecursive" />
+    <e p="D:\github\Katamari2\KatamariRecreate" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="ballBehavior.cs" t="Include" />
+          <e p="CameraAdjust.cs" t="Include" />
+          <e p="CameraCollision.cs" t="Include" />
           <e p="collactable.cs" t="Include" />
+          <e p="PlayerCamera.cs" t="Include" />
         </e>
       </e>
       <e p="KatamariRecreate.sln" t="IncludeFlat" />
@@ -17,7 +22,5 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_KatamariRecreate.1236714807.00" t="ExcludeRecursive" />
   </component>
 </project>
